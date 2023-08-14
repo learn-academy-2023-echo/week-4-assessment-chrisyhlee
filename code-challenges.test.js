@@ -29,6 +29,7 @@ const colors2 = [
 
 // b) Create the function that makes the test pass.
 
+
 // Pseudo code:
 
 // --------------------2) Create a function that takes in an object that contains up votes and down votes and returns the end tally.
